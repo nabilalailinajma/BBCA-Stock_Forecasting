@@ -20,10 +20,18 @@ PT Bank Central Asia Tbk (BBCA) is Indonesia’s largest private bank with the h
 - Mean Absolute Percentage Error (MAPE): Measures prediction accuracy in percentage form, allowing for model performance comparison across different scales.
 
 ## Project Organization
-    ├── readme.md                               <- The top-level README for developers using this project
+    ├── readme.md                            <- The top-level README for developers using this project
     |
     ├── data
-    │   ├── dataset.csv                         <- The original data
+    │   ├── bbca.csv                         <- The original data stock price BBCA Feb 2021 - Feb 2025
+    │   ├── predict_30days_bbca.csv          <- Result of predicting BBCA stock price in 30 days (Feb-Mar 2025)
     │
     └── notebooks   
-        └── customer-retention-cohort.ipynb     <- Customer Retention Analysis with Cohort Notebook 
+        └── BBCA-stock-forecasting.ipynb     <- BBCA Stock Forecasting Notebook
+
+**Power Point**
+
+https://s.id/BBCA-Stock_Forecasting-ppt
+
+## Contribution
+Contributions are welcome! Feel free to suggest improvements, report issues, or submit pull requests on GitHub
