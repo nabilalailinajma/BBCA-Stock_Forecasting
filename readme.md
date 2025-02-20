@@ -1,4 +1,5 @@
 # BBCA Stock Price Forecasting (2021 - 2025)
+Developed by: Nabila Lailinajma
 
 ## Overview
 This project aims to develop a predictive model for PT Bank Central Asia Tbk (BBCA) stock price movements for the period of Feb 2021 - Feb 2025. By leveraging historical stock price data from 2021 to 2025, we aim to identify trends and patterns to optimize investment decisions.
